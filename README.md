@@ -5,7 +5,7 @@ A low-poly front bumper for the [V0 Kirigami Bed](https://github.com/christophmu
 Supports the [Rainbow Barf Logo LED](https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED) or a [Neopixel Mini Button](https://www.adafruit.com/product/4776).
 
 
-![Render](Images/render_all.png)
+![Render](Images/render.png)
 
 # BOM
 
