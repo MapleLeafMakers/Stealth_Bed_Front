@@ -17,7 +17,7 @@ Supports the [Rainbow Barf Logo LED](https://github.com/tanaes/whopping_Voron_mo
 | Neopixel Mini Button          |    1 |
 | Rainbow Barf Logo LED         |    1 |
 
-** Only one LED Option is required.  Either the Neopixel Mini Button, *or* the Rainbow Barf Logo LED **
+**Note:** Only one LED Option is required.  Either the Neopixel Mini Button, *or* the Rainbow Barf Logo LED
 
 
 # Printing
