@@ -1,6 +1,11 @@
 # V0 Stealth Bumper
 
-A low-poly front bumper for the [V0 Kirigami Bed](https://github.com/christophmuellerorg/voron_0_kirigami_bed).
+A low-poly front bumper for your Voron 3D Printer 
+
+Compatible with:
+ - [V0 Kirigami Bed](https://github.com/christophmuellerorg/voron_0_kirigami_bed).
+ - Salad Fork / Tri-Zero / Pandoras Box
+ - anything with an extrusion to attach it to
 
 Supports the [Rainbow Barf Logo LED](https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED) or a [Neopixel Mini Button](https://www.adafruit.com/product/4776).
 
@@ -17,12 +22,14 @@ Supports the [Rainbow Barf Logo LED](https://github.com/tanaes/whopping_Voron_mo
 | Neopixel Mini Button          |    1 |
 | Rainbow Barf Logo LED         |    1 |
 
+ 
 **Note:** Only one LED Option is required.  Either the Neopixel Mini Button, *or* the Rainbow Barf Logo LED
 
 
 # Printing
 
  - Use standard Voron print settings for all parts.
+ - Print the main_body stl for your printer.
  - use a clear filament for parts with the `[c]` prefix.
  - for Rainbow Barf, print `[c]_rainbow_barf_diffuser.stl` and `rainbow_barf_carrier.stl`
  - for Neopixel Mini Button print `[c]_neopixel_button_diffuser.stl` and `neopixel_button_carrier.stl`
