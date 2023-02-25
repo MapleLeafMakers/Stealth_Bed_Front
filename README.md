@@ -49,5 +49,5 @@ Supports the [Rainbow Barf Logo LED](https://github.com/tanaes/whopping_Voron_mo
 # Credits
 
 - Cameron at LDO Motors for the initial work on fitting a StealthBurner diffuser in the design
-- WhoppingPochard and VinnyCordiero for the Rainbow Barf Logo LED
+- WhoppingPochard and VinnyCordeiro for the Rainbow Barf Logo LED
 
